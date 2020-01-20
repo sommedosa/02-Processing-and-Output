@@ -1,7 +1,9 @@
 # python-exercise2
 
 1.	What would the following display? </br>
-  a = 5 b = 2 c = 3 </br>
+  a = 5 </br>
+  b = 2 </br>
+  c = 3 </br>
   result = a + b * c </br>
   print(result) </br>
 
@@ -14,7 +16,10 @@ c. result = y / x </br>
 d. result = y – z </br>
 e. result = w // z </br>
 
-3.	What would the following display? num = 99 num = 5 print(num)</br>
+3.	What would the following display? </br>
+num = 99 </br>
+num = 5 </br>
+print(num)</br>
 
 4.	What will the following statement display? print('X\tO\tX\nO\tX\tO\nX\tO\tX\n')</br>
 
@@ -25,8 +30,8 @@ Area = 3.8013271108436504</br>
 
 6.	Write a program that displays the following information: </br>
 • Your name </br>
-• Your	address,	with	city,	state,	and	ZIP </br>
-• Your telephone number</br>
+• Your address </br>
+• Your nick name</br>
 
 7.	One pound is equivalent to 0.454 kilograms. Write a program that asks the user to enter the mass of an object in pounds and then calculates and displays the mass of the object in kilograms.</br>
 
