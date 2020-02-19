@@ -7,7 +7,6 @@
   * Correct syntax errors
   * Test the program
   * Correct logic errors
-Algorithm: set of well-defined logical steps that must be taken to perform a task
 
 ## Pseudocode: fake code
 * Informal language that has no syntax rule 
@@ -31,10 +30,11 @@ Algorithm: set of well-defined logical steps that must be taken to perform a tas
 
 ## Displaying Output with the print Function
 * Function: piece of prewritten code that performs an operation
-* print function: displays output on the screen
+* Print function: displays output on the screen
 * Argument: data given to a function
 
 ## Keywords
+* Algorithm: set of well-defined logical steps that must be taken to perform a task
 * String: sequence of characters that is used as data
 * String literal: string that appears in actual code of a program
 * Comments: notes of explanation within a program
@@ -57,10 +57,10 @@ Algorithm: set of well-defined logical steps that must be taken to perform a tas
 
 
 ## Data Output
-* print function displays line of output 
+* Print function displays line of output 
   - Newline character at end of printed data
   - Special argument end='delimiter' causes print to place delimiter at end of data instead of newline character
-* print function uses space as item separator
+* Print function uses space as item separator
   - Special argument sep='delimiter' causes print to use delimiter as item separator
 * Special characters appearing in string literal, preceded by backslash (\)
   - newline (\n), horizontal tab (\t), single quote (\'), double quote (\"), back slash (\\)
