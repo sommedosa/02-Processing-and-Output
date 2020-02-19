@@ -7,8 +7,7 @@
   * Correct syntax errors
   * Test the program
   * Correct logic errors
-
-## Algorithm: set of well-defined logical steps that must be taken to perform a task
+Algorithm: set of well-defined logical steps that must be taken to perform a task
 
 ## Pseudocode: fake code
 * Informal language that has no syntax rule 
