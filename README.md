@@ -74,7 +74,7 @@ Two arguments:
   - Specifying a Minimum Field Width
   - Formatting a Floating-Point Number as a Percentage, The % symbol can be used in the format string of format function to format number as percentage
   - Formatting Integers, d
-https://pyformat.info/
+  - https://pyformat.info/
 
 -------------------
 
